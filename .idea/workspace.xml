@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fed9650-d050-41ab-95ef-f151bdec0f21" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1imjNrd1GkzUCA6mfF1XNYlpm4O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.str.js">
+    <configuration name="obj_create.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/obj_create.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="str.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/str.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="types.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/types.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="wrappers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/wrappers.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.str.js" />
+        <item itemvalue="Node.js.obj_create.js" />
+        <item itemvalue="Node.js.wrappers.js" />
+        <item itemvalue="Node.js.types.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fed9650-d050-41ab-95ef-f151bdec0f21" name="Default Changelist" comment="" />
+      <created>1602519628898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602519628898</updated>
+      <workItem from="1602519630897" duration="5403000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1893" height="263" key="GridCell.Tab.0.bottom" timestamp="1602526454684">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602526454684" />
+    <state width="1893" height="263" key="GridCell.Tab.0.center" timestamp="1602526454682">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="263" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602526454682" />
+    <state width="1893" height="263" key="GridCell.Tab.0.left" timestamp="1602526454681">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="263" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602526454681" />
+    <state width="1893" height="263" key="GridCell.Tab.0.right" timestamp="1602526454683">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="263" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602526454683" />
+    <state x="152" y="46" key="SettingsEditor" timestamp="1602524541195">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="152" y="46" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1602524541195" />
+    <state width="625" height="500" key="SwitcherDM" timestamp="1602520988336">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="625" height="500" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1602520988336" />
+    <state x="541" y="252" key="run.anything.popup" timestamp="1602522962504">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="541" y="252" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602522962504" />
+    <state x="541" y="48" key="search.everywhere.popup" timestamp="1602526419634">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="541" y="48" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602526419634" />
+  </component>
+</project>
